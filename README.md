@@ -7,6 +7,8 @@ Além disso, aprender GitFlow ao final do curso e Visual Studio Code.
 {Curso Git 2025]
 confira tudo!
 
+Se liga no meu trabalho no GitHub.
+certo?
 --
 
 Ok!
