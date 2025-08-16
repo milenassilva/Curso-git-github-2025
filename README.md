@@ -4,6 +4,9 @@ Um curso para aprender a trabalhar com versionamento de código e repositórios 
 
 Além disso, aprender GitFlow ao final do curso e Visual Studio Code.
 
+{Curso Git 2025]
+confira tudo!
+
 --
 
 Ok!
